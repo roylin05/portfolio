@@ -207,7 +207,7 @@ function Portfolio() {
           <Card bg={COLORS.lemon} className="p-6 md:p-10">
             <SectionTag bg={COLORS.paper}>01 // ABOUT</SectionTag>
             <h2 className="font-display italic text-5xl md:text-6xl mb-6">Hi people!</h2>
-            <div className="space-y-4 text-lg md:text-xl leading-relaxed">
+            <div className="space-y-4 text-base md:text-xl leading-relaxed">
               <p>
                 I am a <Highlight>4th-year CS (AI/ML) student at Sahyadri College</Highlight>,
                 Mangaluru, currently maintaining an{" "}
@@ -507,7 +507,7 @@ function IntroOverlay() {
 
 function Highlight({ children }: { children: React.ReactNode }) {
   return (
-    <span className="border-2 border-black px-2 py-0.5 bg-white font-bold whitespace-nowrap">
+    <span className="inline rounded-md border-2 border-black bg-white px-2 py-0.5 font-bold break-words">
       {children}
     </span>
   );
