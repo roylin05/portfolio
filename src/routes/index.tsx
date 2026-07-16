@@ -155,7 +155,7 @@ function Portfolio() {
                 </div>
                 <div className="flex items-center gap-3 flex-wrap">
                   <Chip bg={COLORS.sky}>[MISSION]</Chip>
-                  <span className="font-mono text-sm md:text-base">Imagine. Analyze. Create.</span>
+                  <span className="font-mono text-sm md:text-base">Dream.Dare.Do</span>
                 </div>
               </div>
 
