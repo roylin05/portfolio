@@ -126,7 +126,7 @@ function Portfolio() {
                 className="w-40 h-40 md:w-52 md:h-52 rounded-full overflow-hidden border-4 border-black"
               >
                  <img
-                    src="/images/Profile.jpeg"
+                    src="public/images/Profile.jpeg"
                     alt="Roylin"
                     className="w-full h-full object-cover"
                   />
