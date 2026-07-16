@@ -194,7 +194,7 @@ function Portfolio() {
                 <SocialIcon href="https://instagram.com/royliinn_" bg={COLORS.lilac} label="Instagram">
                   ig
                 </SocialIcon>
-                <SocialIcon href="https://substack.com/royli05" bg={COLORS.lemon} label="Substack">
+                <SocialIcon href="https://substack.com/@royli05" bg={COLORS.lemon} label="Substack">
                   subs
                 </SocialIcon>
               </div>
