@@ -139,7 +139,7 @@ function Portfolio() {
                 className="mt-4 border-2 border-black rounded-full px-5 py-2 font-mono text-sm md:text-base font-bold text-white shadow-brutal-sm"
                 style={{ background: "#111" }}
               >
-                AI_ML_ENGINEER()
+                ENGINEERING STUDENT()
               </div>
 
               <div className="w-full h-[2px] bg-black my-6" />
